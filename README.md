@@ -1,5 +1,5 @@
 <h1 align="center"> Hi, I'm LeeSeulHee </h1>
-<p aligen="center"> 
+<p align="center"> 
   🎓 Geunyoung Girls' High School -> 🏫 Daejeon University (Computer Engineering) <br> 
   🧪 Head of AIONE Lab, Daejeon University
 </p>

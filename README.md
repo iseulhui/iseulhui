@@ -1,4 +1,4 @@
-## Hi, I'm LeeSeulHee
+<h1 align="center"> Hi, I'm LeeSeulHee </h1>
 
 <!--
 **iseulhui/iseulhui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

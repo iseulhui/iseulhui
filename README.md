@@ -1,8 +1,9 @@
 <h1 align="center"> Hi, I'm LeeSeulHee </h1>
 <p align="center"> 
   🎓 Geunyoung Girls' High School -> 🏫 Daejeon University (Computer Engineering) <br> 
-  🧪 Head of AIONE Lab, Daejeon University
-</p>
+  🧪 Head of AIONE Lab, Daejeon University </p>
+
+
 <!--
 **iseulhui/iseulhui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
